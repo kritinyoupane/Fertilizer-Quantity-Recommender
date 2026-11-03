@@ -32,10 +32,6 @@ cannot be fully re-run.
 Trained model files, the full dataset and training logs are intentionally
 withheld.
 
-## Citation
-
-See [CITATION.cff](CITATION.cff).
-
 ## Contact
 
-Kritin Youpane
+Kriti Youpane
