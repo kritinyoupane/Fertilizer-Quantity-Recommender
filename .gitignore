@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.log
+# Full dataset is not published; only data/sample/ is
+cleaned_df_*.csv
